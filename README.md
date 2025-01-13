@@ -1,6 +1,6 @@
 # Wzeen AI Financial Advisor 🚀
 
-![Wzeen Logo](assets/wzeen.png)
+![Wzeen Logo](wzeen.png)
 
 ## Overview
 
@@ -121,12 +121,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Wzeen AI Research Team
 - Financial Domain Experts
 - Flutter Community
-
-## 📞 Contact
-
-- Website: https://wzeen.com
-- Email: ai@wzeen.com
-- Twitter: @wzeenai
 
 ---
 Built with 💜 by Wzeen Team
