@@ -79,7 +79,7 @@ dart >= 2.17.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/wzeen/financial-advisor.git
+git clone https://github.com/Mohammed707se/wzeen.git
 ```
 
 2. Install dependencies:
